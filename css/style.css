@@ -44,7 +44,7 @@
 body {
    display: flex;
    flex-wrap: wrap;
-   background-image: url("/img/backgroun2.jpg");
+   background-image: url("../img/backgroun2.jpg");
    background-repeat: no-repeat;
    backdrop-filter: blur(4.5px);
 }
